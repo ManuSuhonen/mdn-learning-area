@@ -13,6 +13,8 @@ https://daringfireball.net/projects/markdown/syntax
 
 https://gist.github.com/mufid/4062574/
 
+https://docs.github.com/en/get-started/writing-on-github
+
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams
 
 https://github.blog/news-insights/product-news/task-lists-in-all-markdown-documents/
