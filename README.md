@@ -7,3 +7,28 @@ The one exception is the [Server-side website programming](https://developer.moz
 
 * https://github.com/mdn/express-locallibrary-tutorial
 * https://github.com/mdn/django-locallibrary-tutorial
+
+
+https://daringfireball.net/projects/markdown/syntax
+
+https://gist.github.com/mufid/4062574/
+
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams
+
+https://github.blog/news-insights/product-news/task-lists-in-all-markdown-documents/
+
+https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/
+
+https://commonmark.org/
+
+https://commonmark.org/help/
+
+https://commonmark.org/help/tutorial/
+
+https://mermaid.js.org/intro/
+
+https://daringfireball.net/projects/markdown/syntax
+
+``` 
+    <code style='padding: 4px; border-radius: 4px; background-color:#0e6ec2'>
+```
